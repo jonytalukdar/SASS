@@ -36,3 +36,40 @@ h2 {
   color: blue;
   text-align: center;
 }
+
+h1 {
+  color: #326dee;
+  margin-bottom: 0.075rem;
+}
+
+a {
+  color: #a1c888;
+}
+
+button {
+  color: white;
+  border: 0;
+  background: #326dee;
+  border-radius: 20px;
+  padding: 0.75rem;
+}
+
+.error {
+  border-color: #d32752;
+  color: #d32752;
+  border-style: solid;
+  padding: 0.75rem;
+  margin: 0.075rem;
+  border-radius: 20px;
+  border-width: 1px;
+}
+
+.notification {
+  color: #a1c888;
+  border-color: #a1c888;
+  border-style: solid;
+  padding: 0.75rem;
+  margin: 0.075rem;
+  border-radius: 20px;
+  border-width: 1px;
+}
